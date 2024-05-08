@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Ride 1",
+        "tripID": "201344",
+        "driverName": "Aman",
+        "driverPhoneNumber": "9347235798",
+        "cabNumber": "PB2019X",
+        "location": "Ferozpur Railway Station",
+        "destination": {
+            "latitude" : "30.941948772207255",
+            "longitude" : "74.61768280240305"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ride 2",
+        "tripID": "501314",
+        "driverName": "Naman",
+        "driverPhoneNumber": "9148765090",
+        "cabNumber": "PB1081X",
+        "location": "Golden Temple",
+        "destination": {
+            "latitude" : "31.62075279257806",
+            "longitude" : "74.87711829106179"
+        }
+    }
+]
