@@ -1,5 +1,5 @@
 # Ride Sharing Application
 # How to run
->> npm start
+ ```npm start```
 got to the server folder
->> node server.js
+```node server.js```
